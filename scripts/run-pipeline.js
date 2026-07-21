@@ -1,9 +1,8 @@
 require("dotenv").config();
 
-// Parse --voice=male|female (default: male → shubh, female → roopa)
+// Parse --voice=male|female (default from .env SARVAM_VOICE)
 const _voiceArg = process.argv.find(a => a.startsWith("--voice="));
-const _voiceGender = _voiceArg ? _voiceArg.split("=")[1].toLowerCase() : "male";
-process.env.SARVAM_SPEAKER = _voiceGender === "female" ? "roopa" : "shubh";
+if (_voiceArg) process.env.SARVAM_VOICE = _voiceArg.split("=")[1].toLowerCase();
 
 const fs = require("fs");
 const path = require("path");
@@ -244,7 +243,7 @@ async function main(courseJsonOverride, options = {}) {
   if (lectureLimit && lectureLimit > 0) {
     L.kv("Lecture limit:", String(lectureLimit));
   }
-  L.kv("Voice:", `${_voiceGender} (${process.env.SARVAM_SPEAKER})`);
+  L.kv("Voice:", `${process.env.SARVAM_VOICE || "male"}`);
   L.kv("To process now:", String(pending.length));
   L.kv("Output dir:", OUTPUT_DIR);
   L.kv("S3 destination:", `s3://${S3_BUCKET}/${S3_PREFIX}/{lectureId}/`);

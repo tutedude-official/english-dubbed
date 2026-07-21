@@ -10,10 +10,13 @@ const NODE_ENV         = process.env.NODE_ENV || "development";
 const S3_PREFIX        = process.env.S3_PREFIX || `dubbed-${NODE_ENV}/en/ind`;
 
 // ── Sarvam TTS ───────────────────────────────────────────────────────────────
-const SARVAM_API_KEY = process.env.SARVAM_API_KEY;
-const SARVAM_MODEL   = process.env.SARVAM_MODEL || "bulbul:v3";
-const SARVAM_SPEAKER = process.env.SARVAM_SPEAKER || "shubh";
-const SAMPLE_RATE    = 24000;
+const SARVAM_API_KEY         = process.env.SARVAM_API_KEY;
+const SARVAM_MODEL           = process.env.SARVAM_MODEL || "bulbul:v3";
+const SARVAM_SPEAKER_MALE    = process.env.SARVAM_SPEAKER_MALE || "shubh";
+const SARVAM_SPEAKER_FEMALE  = process.env.SARVAM_SPEAKER_FEMALE || "roopa";
+const SARVAM_VOICE           = process.env.SARVAM_VOICE || "male";
+const SARVAM_SPEAKER         = SARVAM_VOICE === "female" ? SARVAM_SPEAKER_FEMALE : SARVAM_SPEAKER_MALE;
+const SAMPLE_RATE            = 24000;
 
 // ── OpenAI GPT ────────────────────────────────────────────────────────────────
 const GPT_MODEL = "gpt-4o-mini";

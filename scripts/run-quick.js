@@ -1,5 +1,8 @@
 require("dotenv").config();
-process.env.SARVAM_SPEAKER = "roopa"; // female voice
+
+// Parse --voice=male|female (default from .env SARVAM_VOICE)
+const _voiceArg = process.argv.find(a => a.startsWith("--voice="));
+if (_voiceArg) process.env.SARVAM_VOICE = _voiceArg.split("=")[1].toLowerCase();
 
 const fs = require("fs");
 const path = require("path");
