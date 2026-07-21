@@ -70,8 +70,8 @@ async function processLecture(lecture, index, total) {
   L.divider();
 
   // Step 0 — Skip if already present on S3
-  const audioKeyCheck = `${S3_PREFIX}/${lectureId}/english.wav`;
-  const vttKeyCheck   = `${S3_PREFIX}/${lectureId}/english.vtt`;
+  const audioKeyCheck = `${S3_PREFIX}/${lectureId}/audio.wav`;
+  const vttKeyCheck   = `${S3_PREFIX}/${lectureId}/audio.vtt`;
   L.write("  Step 0/3  Checking S3 for existing output... ");
   try {
     const [hasAudio, hasVtt] = await Promise.all([
@@ -82,7 +82,7 @@ async function processLecture(lecture, index, total) {
     L.detail(`hasVtt   (${vttKeyCheck}): ${hasVtt}`);
     if (hasAudio && hasVtt) {
       L.done("ALREADY PRESENT");
-      L.success(`Skipping — s3://${S3_BUCKET}/${S3_PREFIX}/${lectureId}/ already has english.wav + english.vtt`);
+      L.success(`Skipping — s3://${S3_BUCKET}/${S3_PREFIX}/${lectureId}/ already has audio.wav + audio.vtt`);
       return {
         status: "skipped",
         lectureId,
@@ -151,19 +151,19 @@ async function processLecture(lecture, index, total) {
 
   // Step 3 — Upload
   const uploadStart = Date.now();
-  const audioKey    = `${S3_PREFIX}/${lectureId}/english.wav`;
-  const vttKey      = `${S3_PREFIX}/${lectureId}/english.vtt`;
+  const audioKey    = `${S3_PREFIX}/${lectureId}/audio.wav`;
+  const vttKey      = `${S3_PREFIX}/${lectureId}/audio.vtt`;
 
   L.step("\n  Step 3/3  Uploading to S3...");
 
   const audioSizeMB = (fs.statSync(outputAudio).size / 1024 / 1024).toFixed(1);
   const vttSizeKB   = (fs.statSync(outputVTT).size / 1024).toFixed(1);
 
-  L.write(`    Uploading english.wav... `);
+  L.write(`    Uploading audio.wav... `);
   await uploadToS3(outputAudio, audioKey);
   L.done(`[${audioSizeMB} MB]`);
 
-  L.write(`    Uploading english.vtt...  `);
+  L.write(`    Uploading audio.vtt...  `);
   await uploadToS3(outputVTT, vttKey);
   L.done(`[${vttSizeKB} KB]`);
 

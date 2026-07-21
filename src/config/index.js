@@ -6,7 +6,8 @@ const AWS_ACCESS_KEY_ID     = process.env.AWS_ACCESS_KEY_ID;
 const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY;
 const AWS_REGION       = process.env.AWS_REGION || "ap-south-1";
 const S3_BUCKET        = process.env.S3_BUCKET || "tutedude694";
-const S3_PREFIX        = process.env.S3_PREFIX || "english-dub";
+const NODE_ENV         = process.env.NODE_ENV || "development";
+const S3_PREFIX        = process.env.S3_PREFIX || `dubbed-${NODE_ENV}/en/ind`;
 
 // ── Sarvam TTS ───────────────────────────────────────────────────────────────
 const SARVAM_API_KEY = process.env.SARVAM_API_KEY;

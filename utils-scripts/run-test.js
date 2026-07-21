@@ -130,18 +130,18 @@ async function main() {
   L.step("  Step 3/3  Uploading to S3...");
 
   const uploadStart = Date.now();
-  const audioKey    = `${S3_PREFIX}/${lectureId}/english.wav`;
-  const vttKey      = `${S3_PREFIX}/${lectureId}/english.vtt`;
+  const audioKey    = `${S3_PREFIX}/${lectureId}/audio.wav`;
+  const vttKey      = `${S3_PREFIX}/${lectureId}/audio.vtt`;
 
   const audioSizeMB = (fs.statSync(outputAudio).size / 1024 / 1024).toFixed(1);
   const vttSizeKB2  = (fs.statSync(outputVTT).size / 1024).toFixed(1);
 
-  L.write(`    Uploading english.wav  [${audioSizeMB} MB]... `);
+  L.write(`    Uploading audio.wav  [${audioSizeMB} MB]... `);
   await uploadToS3(outputAudio, audioKey);
   L.done(`(${fmtMs(Date.now() - uploadStart)})`);
 
   const vttUpStart = Date.now();
-  L.write(`    Uploading english.vtt  [${vttSizeKB2} KB]...  `);
+  L.write(`    Uploading audio.vtt  [${vttSizeKB2} KB]...  `);
   await uploadToS3(outputVTT, vttKey);
   L.done(`(${fmtMs(Date.now() - vttUpStart)})`);
 
