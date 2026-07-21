@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment variables (never commit real keys)
+.env
+
+# Generated output files
+output/
+*.wav
+*.mp3
+
+# Pipeline state files
+completed_*.json
+missing_vtt_*.json
+
+# Temp audio working directory
+tmp_audio_pipeline/
+
+# macOS
+.DS_Store
+
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,28 @@
+{
+  "name": "hinglish-to-english-pipeline",
+  "version": "1.0.0",
+  "description": "Hinglish VTT → English voiceover audio pipeline using GPT + OpenAI TTS",
+  "main": "src/pipeline/index.js",
+  "scripts": {
+    "test": "node scripts/run-test.js",
+    "production": "node scripts/run-pipeline.js",
+    "upload": "node scripts/upload-retry.js",
+    "dev": "node --watch scripts/run-test.js",
+    "all": "node scripts/run-all.js",
+    "fetch-vtt": "node utils-scripts/fetch-vtt.js",
+    "preview-dub": "node utils-scripts/preview-dub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1015.0",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "dotenv": "^17.3.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "openai": "^6.32.0",
+    "path": "^0.12.7"
+  }
+}
