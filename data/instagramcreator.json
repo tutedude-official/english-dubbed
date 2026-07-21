@@ -1,0 +1,1059 @@
+{
+  "_id": {
+    "$oid": "6981eb3123576e8c37bf9bed"
+  },
+  "courseName": "Instagram Content Creation",
+  "slug": "instagramcreator",
+  "category": "marketing",
+  "bucket": "tutedude694",
+  "folderName": "Instagram Course",
+  "tpFolderId": "5jBd7spMUCA",
+  "sections": [
+    {
+      "sectionName": "FOUNDATION",
+      "lectures": [
+        {
+          "lectureName": "Course Overview",
+          "lectureLength": 2468,
+          "tpStreamId": "7NPTbp7SU5J",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Course%20Overview.mov",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bef"
+          }
+        },
+        {
+          "lectureName": "Realistice Growth Expectations",
+          "lectureLength": 1798,
+          "tpStreamId": "5Bgb8fMaRbH",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Realistice%20Growth%20Expectations.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf0"
+          }
+        },
+        {
+          "lectureName": "Common beginner Mistakes",
+          "lectureLength": 1113,
+          "tpStreamId": "7Rf9sJ2Y9SG",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Common%20beginner%20Mistakes.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf1"
+          }
+        },
+        {
+          "lectureName": "Why instagram matters",
+          "lectureLength": 1810,
+          "tpStreamId": "4hzk9kHs3xR",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Why%20instagram%20matters.mov",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf2"
+          }
+        },
+        {
+          "lectureName": "Creator Economy",
+          "lectureLength": 1626,
+          "tpStreamId": "3hNabRk4ZZe",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Creator%20Economy.mov",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf3"
+          }
+        },
+        {
+          "lectureName": "Finding your WHY ?",
+          "lectureLength": 2326,
+          "tpStreamId": "55MpGHBKm4Q",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Finding%20your%20WHY.mov",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf4"
+          }
+        },
+        {
+          "lectureName": "Overcoming Fear of what people will think",
+          "lectureLength": 2252,
+          "tpStreamId": "5mfRJ8BqDG4",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Overcoming%20Fear%20of%20what%20people%20will%20think.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf5"
+          }
+        },
+        {
+          "lectureName": "Unique voice & Niche",
+          "lectureLength": 1994,
+          "tpStreamId": "AUfUp5ggmZu",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Unique%20voice%20%26%20Niche.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf6"
+          }
+        },
+        {
+          "lectureName": "Target Audience",
+          "lectureLength": 1813,
+          "tpStreamId": "855DYz3hmyd",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Target%20Audience.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf7"
+          }
+        },
+        {
+          "lectureName": "Personal Branding",
+          "lectureLength": 1854,
+          "tpStreamId": "7fkGZHTa4uJ",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Personal%20Branding.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf8"
+          }
+        },
+        {
+          "lectureName": "Optimizing Insta Profile",
+          "lectureLength": 2284,
+          "tpStreamId": "9parP6SSdxm",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Optimizing%20Insta%20Profile.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bf9"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create Mind Map",
+          "dueDate": {
+            "$date": "2026-03-16T02:46:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e19d49153561b6b5fcd3"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e19d49153561b6b5fcd5"
+          }
+        },
+        {
+          "assignmentName": "Finding your “Why” ",
+          "dueDate": {
+            "$date": "2026-03-16T05:25:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1a849153561b6b5fcd8"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1a849153561b6b5fcda"
+          }
+        },
+        {
+          "assignmentName": "Finding your “Niche”",
+          "dueDate": {
+            "$date": "2026-03-16T05:25:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1b849153561b6b5fcdd"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1b849153561b6b5fcdf"
+          }
+        },
+        {
+          "assignmentName": "Personal Branding",
+          "dueDate": {
+            "$date": "2026-03-16T05:25:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1c449153561b6b5fce2"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1c449153561b6b5fce4"
+          }
+        },
+        {
+          "assignmentName": "Optimising Instagram",
+          "dueDate": {
+            "$date": "2026-03-16T05:26:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1d349153561b6b5fce7"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1d349153561b6b5fce9"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9bee"
+      }
+    },
+    {
+      "sectionName": "CONTENT CREATION STRATEGY",
+      "lectures": [
+        {
+          "lectureName": "Insta Content Format",
+          "lectureLength": 2303,
+          "tpStreamId": "8srNfMKBp8T",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Insta%20Content%20Format.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bfb"
+          }
+        },
+        {
+          "lectureName": "Content pillar",
+          "lectureLength": 2792,
+          "tpStreamId": "3QczNFNMpdt",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Content%20pillar.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bfc"
+          }
+        },
+        {
+          "lectureName": "Storytelling for insta",
+          "lectureLength": 2097,
+          "tpStreamId": "8tgNqZuZSha",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Storytelling%20for%20insta.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bfd"
+          }
+        },
+        {
+          "lectureName": "Hooks for insta",
+          "lectureLength": 2290,
+          "tpStreamId": "BFtMtyRpaTH",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Hooks%20for%20insta.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bfe"
+          }
+        },
+        {
+          "lectureName": "Endless Content Ideas",
+          "lectureLength": 1362,
+          "tpStreamId": "3nyhSpSpAKG",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Endless%20Content%20Ideas.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9bff"
+          }
+        },
+        {
+          "lectureName": "Batching and Planning Content",
+          "lectureLength": 1376,
+          "tpStreamId": "32b3BDusjf6",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Batching%20and%20Planning%20Content.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c00"
+          }
+        },
+        {
+          "lectureName": "Role of Aesthetics",
+          "lectureLength": 1805,
+          "tpStreamId": "6Xuq2gzCEqt",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Role%20of%20Aesthetics.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c01"
+          }
+        },
+        {
+          "lectureName": "Editing Basics",
+          "lectureLength": 2810,
+          "tpStreamId": "42nT5Gf5JX2",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Editing%20Basics.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c02"
+          }
+        },
+        {
+          "lectureName": "Music, captions and Transitions",
+          "lectureLength": 2109,
+          "tpStreamId": "BaFhhrG9HkF",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Music%2C%20captions%20and%20Transitions.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c03"
+          }
+        },
+        {
+          "lectureName": "Avoiding Perfectionism",
+          "lectureLength": 1425,
+          "tpStreamId": "6TUQCtjQEau",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Avoiding%20Perfectionism.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c04"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Content Formats",
+          "dueDate": {
+            "$date": "2026-03-16T05:26:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1ec49153561b6b5fcec"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1ec49153561b6b5fcee"
+          }
+        },
+        {
+          "assignmentName": "Content Pillars",
+          "dueDate": {
+            "$date": "2026-03-16T05:26:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e1f649153561b6b5fcf1"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e1f649153561b6b5fcf3"
+          }
+        },
+        {
+          "assignmentName": "Storytelling for Instagram",
+          "dueDate": {
+            "$date": "2026-03-16T05:26:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e20149153561b6b5fcf6"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e20149153561b6b5fcf8"
+          }
+        },
+        {
+          "assignmentName": "Hooks for Instagram ",
+          "dueDate": {
+            "$date": "2026-03-16T05:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e20b49153561b6b5fcfb"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e20b49153561b6b5fcfd"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9bfa"
+      }
+    },
+    {
+      "sectionName": "ENGAGEMENT & GROWTH ESSENTIALS",
+      "lectures": [
+        {
+          "lectureName": "Instagram Algorithm",
+          "lectureLength": 2097,
+          "tpStreamId": "BzgMejsG7HN",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Instagram%20Algorithm.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c06"
+          }
+        },
+        {
+          "lectureName": "Captions",
+          "lectureLength": 2449,
+          "tpStreamId": "J87PcYpKdAp",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Captions.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c07"
+          }
+        },
+        {
+          "lectureName": "Hashtags",
+          "lectureLength": 2456,
+          "tpStreamId": "5nNhGUk36Be",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Hashtags.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c08"
+          }
+        },
+        {
+          "lectureName": "Posting Frequency",
+          "lectureLength": 2110,
+          "tpStreamId": "5suTTSRe47b",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Posting%20Frequency.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c09"
+          }
+        },
+        {
+          "lectureName": "Engaging audience",
+          "lectureLength": 1890,
+          "tpStreamId": "rjyGREGfh3u",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Engaging%20audience.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c0a"
+          }
+        },
+        {
+          "lectureName": "Insta Stories",
+          "lectureLength": 2290,
+          "tpStreamId": "8zPQ2sPckgH",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Insta%20Stories.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c0b"
+          }
+        },
+        {
+          "lectureName": "Going Live",
+          "lectureLength": 2537,
+          "tpStreamId": "9EqrpmxUnYT",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Going%20Live.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c0c"
+          }
+        },
+        {
+          "lectureName": "Hate Comments",
+          "lectureLength": 1578,
+          "tpStreamId": "6fXuphJh9KG",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Hate%20Comments.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c0d"
+          }
+        },
+        {
+          "lectureName": "Building Resilience",
+          "lectureLength": 1659,
+          "tpStreamId": "BsjUJJ4N4jc",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Building%20Resilience.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c0e"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Captions",
+          "dueDate": {
+            "$date": "2026-03-16T05:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e21b49153561b6b5fd00"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e21c49153561b6b5fd02"
+          }
+        },
+        {
+          "assignmentName": "Hashtags ",
+          "dueDate": {
+            "$date": "2026-03-16T05:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e22549153561b6b5fd05"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e22549153561b6b5fd07"
+          }
+        },
+        {
+          "assignmentName": "Posting Frequency ",
+          "dueDate": {
+            "$date": "2026-03-16T05:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e22f49153561b6b5fd0a"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e22f49153561b6b5fd0c"
+          }
+        },
+        {
+          "assignmentName": "Day Stories Challenge",
+          "dueDate": {
+            "$date": "2026-03-16T05:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e24a49153561b6b5fd0f"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e24a49153561b6b5fd11"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9c05"
+      }
+    },
+    {
+      "sectionName": "ADVANCED GROWTH TACTICS",
+      "lectures": [
+        {
+          "lectureName": "Collabs & Shoutouts",
+          "lectureLength": 2725,
+          "tpStreamId": "7JpxTYpkBUE",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Collabs%20%26%20Shoutouts.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c10"
+          }
+        },
+        {
+          "lectureName": "Leveraging Trends",
+          "lectureLength": 1864,
+          "tpStreamId": "3SqXfnbkdGd",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Leveraging%20Trends.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c11"
+          }
+        },
+        {
+          "lectureName": "Discovered on Insta",
+          "lectureLength": 2575,
+          "tpStreamId": "5Tt2P2RBUmr",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Discovered%20on%20Insta.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c12"
+          }
+        },
+        {
+          "lectureName": "Cross Promotion",
+          "lectureLength": 2682,
+          "tpStreamId": "7cgUayxeUxS",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Cross%20Promotion.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c13"
+          }
+        },
+        {
+          "lectureName": "Analytics",
+          "lectureLength": 2710,
+          "tpStreamId": "ByZ7UnjRXqT",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Analytics.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c14"
+          }
+        },
+        {
+          "lectureName": "Viral content",
+          "lectureLength": 2399,
+          "tpStreamId": "7jGUXHJrHK2",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Viral%20content.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c15"
+          }
+        },
+        {
+          "lectureName": "Growth Plateaus",
+          "lectureLength": 2201,
+          "tpStreamId": "8fjbk2yU57Z",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Growth%20Plateaus.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c16"
+          }
+        },
+        {
+          "lectureName": "Authority Content",
+          "lectureLength": 2587,
+          "tpStreamId": "5BgnRmKYkAZ",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Authority%20Content.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c17"
+          }
+        },
+        {
+          "lectureName": "Experimenting Formats",
+          "lectureLength": 2798,
+          "tpStreamId": "8zsf2jK6hZK",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Experimenting%20Formats.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c18"
+          }
+        },
+        {
+          "lectureName": "Sustainable Growth",
+          "lectureLength": 2251,
+          "tpStreamId": "A3yc3nRthMM",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Sustainable%20Growth.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c19"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Collab Pitch Challenge ",
+          "dueDate": {
+            "$date": "2026-03-16T05:28:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e25a49153561b6b5fd14"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e25a49153561b6b5fd16"
+          }
+        },
+        {
+          "assignmentName": "Leveraging Trends",
+          "dueDate": {
+            "$date": "2026-03-16T05:28:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e26449153561b6b5fd19"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e26449153561b6b5fd1b"
+          }
+        },
+        {
+          "assignmentName": "Observing Viral Posts ",
+          "dueDate": {
+            "$date": "2026-03-16T05:28:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e27149153561b6b5fd1e"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e27149153561b6b5fd20"
+          }
+        },
+        {
+          "assignmentName": "Format Experimentation Exercise",
+          "dueDate": {
+            "$date": "2026-03-16T05:28:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e27b49153561b6b5fd23"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e27b49153561b6b5fd25"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9c0f"
+      }
+    },
+    {
+      "sectionName": "MONETIZATION AND CREATOR MINDSET",
+      "lectures": [
+        {
+          "lectureName": "Ways to earn",
+          "lectureLength": 2923,
+          "tpStreamId": "7pQtkbpP9R7",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Ways%20to%20earn.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c1b"
+          }
+        },
+        {
+          "lectureName": "Media Kit",
+          "lectureLength": 2337,
+          "tpStreamId": "9zJNnzm6sSy",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Media%20Kit.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c1c"
+          }
+        },
+        {
+          "lectureName": "Pitching insta",
+          "lectureLength": 2566,
+          "tpStreamId": "58BkHYurn6d",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Pitching%20insta.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c1d"
+          }
+        },
+        {
+          "lectureName": "long term Collab",
+          "lectureLength": 1992,
+          "tpStreamId": "9YTKe93qUb5",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/long%20term%20Collab.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c1e"
+          }
+        },
+        {
+          "lectureName": "diversifying Income",
+          "lectureLength": 2100,
+          "tpStreamId": "3NYjGghTEMG",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/diversifying%20Income.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c1f"
+          }
+        },
+        {
+          "lectureName": "Creative Burnout",
+          "lectureLength": 1995,
+          "tpStreamId": "6bU56KRm57s",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Creative%20Burnout.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c20"
+          }
+        },
+        {
+          "lectureName": "Creator's Time Management",
+          "lectureLength": 1680,
+          "tpStreamId": "5RBxhtPD43b",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Creator's%20Time%20Management.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c21"
+          }
+        },
+        {
+          "lectureName": "Healthy Boundaries",
+          "lectureLength": 1673,
+          "tpStreamId": "C6RCFB5GzXH",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Healthy%20Boundaries.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c22"
+          }
+        },
+        {
+          "lectureName": "Comparing online",
+          "lectureLength": 2758,
+          "tpStreamId": "3tHb5Mnmgqd",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Comparing%20online.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c23"
+          }
+        },
+        {
+          "lectureName": "Instagram Future",
+          "lectureLength": 1911,
+          "tpStreamId": "BFm6smmA3Mx",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Instagram%20Future.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c24"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Monetization Mapping Exercise ",
+          "dueDate": {
+            "$date": "2026-03-16T05:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e28949153561b6b5fd28"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e28949153561b6b5fd2a"
+          }
+        },
+        {
+          "assignmentName": "Pitch Draft Exercise ",
+          "dueDate": {
+            "$date": "2026-03-16T05:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e29349153561b6b5fd2d"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e29349153561b6b5fd2f"
+          }
+        },
+        {
+          "assignmentName": "Content Comparison Audit ",
+          "dueDate": {
+            "$date": "2026-03-16T05:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e2b549153561b6b5fde1"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e2b549153561b6b5fde3"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9c1a"
+      }
+    },
+    {
+      "sectionName": "REAL LIFE CHALLENGES & PRACTICAL SKILLS",
+      "lectures": [
+        {
+          "lectureName": "Fear of being judged",
+          "lectureLength": 3112,
+          "tpStreamId": "BUR3EeMC984",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Fear%20of%20being%20judged.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c26"
+          }
+        },
+        {
+          "lectureName": "Navigating Feedback",
+          "lectureLength": 2819,
+          "tpStreamId": "Ayd38SnEhge",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Navigating%20Feedback.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c27"
+          }
+        },
+        {
+          "lectureName": "Slow engagement",
+          "lectureLength": 2628,
+          "tpStreamId": "A3nZepnS9Pr",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Slow%20engagement.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c28"
+          }
+        },
+        {
+          "lectureName": "Consistency",
+          "lectureLength": 1598,
+          "tpStreamId": "8sKG5S2UxpB",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Consistency.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c29"
+          }
+        },
+        {
+          "lectureName": "Maintaining Authenticity",
+          "lectureLength": 2647,
+          "tpStreamId": "7Uns8XE82Eu",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Maintaining%20Authenticity.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2a"
+          }
+        },
+        {
+          "lectureName": "Reignite Inspiration",
+          "lectureLength": 2622,
+          "tpStreamId": "7nDRxYpMmSX",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Reignite%20Inspiration.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2b"
+          }
+        },
+        {
+          "lectureName": "Video and Audio Essentials",
+          "lectureLength": 3141,
+          "tpStreamId": "7Z4SyjgZRmS",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Video%20and%20Audio%20Essentials.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2c"
+          }
+        },
+        {
+          "lectureName": "Thumbnails",
+          "lectureLength": 2793,
+          "tpStreamId": "BYN9UKg5Jyg",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Thumbnails.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2d"
+          }
+        },
+        {
+          "lectureName": "Mental health for creators",
+          "lectureLength": 2859,
+          "tpStreamId": "449hBkH7ZH8",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/Mental%20health%20for%20creators.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2e"
+          }
+        },
+        {
+          "lectureName": "The long game",
+          "lectureLength": 2150,
+          "tpStreamId": "BAYB5UHURm6",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/Instagram%20Course/The%20long%20game.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6981eb3123576e8c37bf9c2f"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Reel & Carousel Cover Thumbnail Fix ",
+          "dueDate": {
+            "$date": "2026-03-16T05:30:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e2d949153561b6b5fdeb"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e2d949153561b6b5fded"
+          }
+        },
+        {
+          "assignmentName": "Capstone Project: ",
+          "dueDate": {
+            "$date": "2026-03-16T05:30:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "69b7e2e349153561b6b5fdf0"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "69b7e2e349153561b6b5fdf2"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6981eb3123576e8c37bf9c25"
+      }
+    }
+  ],
+  "active": true,
+  "createdAt": {
+    "$date": "2026-02-03T12:33:53.932Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-06T10:31:12.452Z"
+  },
+  "__v": 1,
+  "isActive": true,
+  "s3BackupPlay": false,
+  "notes": [],
+  "resource": []
+}
