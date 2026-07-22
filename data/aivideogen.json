@@ -1,0 +1,710 @@
+{
+  "_id": {
+    "$oid": "69ff44a28668a9279c142e32"
+  },
+  "courseName": "AI Video Generation",
+  "slug": "aivideogen",
+  "category": "Video Editing",
+  "bucket": "s3://td-course-videos/AI Video Genration/",
+  "folderName": "AI Video Genration",
+  "tpFolderId": "BPxZ7EytuqA",
+  "sections": [
+    {
+      "sectionName": "A Complete course on AI Video Creation workflow",
+      "lectures": [
+        {
+          "lectureName": "Course Introduction",
+          "lectureLength": 335,
+          "tpStreamId": "5sUj35argUJ",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e36"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e35"
+      }
+    },
+    {
+      "sectionName": "Understanding Genrative AI Workflow",
+      "lectures": [
+        {
+          "lectureName": "AI Video creation Foundation",
+          "lectureLength": 556,
+          "tpStreamId": "9TM5cnNaaTS",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e38"
+          }
+        },
+        {
+          "lectureName": "Generative AI for Video Production",
+          "lectureLength": 1140,
+          "tpStreamId": "B4nBKMgQMEd",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e39"
+          }
+        },
+        {
+          "lectureName": "Understanding AI workflow",
+          "lectureLength": 796,
+          "tpStreamId": "7e6pshgQxYR",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e3a"
+          }
+        },
+        {
+          "lectureName": "Generating voiceover with Eleven Labs",
+          "lectureLength": 982,
+          "tpStreamId": "3bzMD6zPSj5",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e3b"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Food Delivery App Audio Advertisement Using ElevenLabs",
+          "dueDate": {
+            "$date": "2026-06-12T03:52:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bcfec8668a9279c14d14b"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bcfec8668a9279c14d14d"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e37"
+      }
+    },
+    {
+      "sectionName": "AI Video Creation Methods",
+      "lectures": [
+        {
+          "lectureName": "Generating Prompt to video with Veo",
+          "lectureLength": 1257,
+          "tpStreamId": "7zGNDCPKgu9",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e3d"
+          }
+        },
+        {
+          "lectureName": "Hedra and HeyGen for AI Avatar Videos",
+          "lectureLength": 756,
+          "tpStreamId": "74DK6tmnhNn",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e3e"
+          }
+        },
+        {
+          "lectureName": "Creating Dynamic Ads with VEO AI",
+          "lectureLength": 2028,
+          "tpStreamId": "9JAamzrxRSr",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e40"
+          }
+        },
+        {
+          "lectureName": "Alien Vlogger videos with Gemini",
+          "lectureLength": 1550,
+          "tpStreamId": "7aFm8CpXDCM",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e41"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Smartwatch Launch Teaser Using Veo",
+          "dueDate": {
+            "$date": "2026-06-12T03:52:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bd88e8668a9279c14d150"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bd88e8668a9279c14d152"
+          }
+        },
+        {
+          "assignmentName": "Create an AI Avatar Welcome Video using Hedra or HeyGen",
+          "dueDate": {
+            "$date": "2026-06-12T04:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bd9318668a9279c14d155"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bd9318668a9279c14d157"
+          }
+        },
+        {
+          "assignmentName": "Create Two Different Fitness App Ads Using Veo AI",
+          "dueDate": {
+            "$date": "2026-06-12T04:34:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bdba28668a9279c14d15f"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bdba28668a9279c14d161"
+          }
+        },
+        {
+          "assignmentName": "Create a Fictional Character Vlog Video using Gemini",
+          "dueDate": {
+            "$date": "2026-06-12T04:42:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bdc3b8668a9279c14d164"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bdc3b8668a9279c14d166"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e3c"
+      }
+    },
+    {
+      "sectionName": "AI Films and Documentaries",
+      "lectures": [
+        {
+          "lectureName": "AI video Generation with Adobe",
+          "lectureLength": 711,
+          "tpStreamId": "7Eg6t2XSzpq",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e43"
+          }
+        },
+        {
+          "lectureName": "Adobe Firefly for Documentary based AI Videos",
+          "lectureLength": 1176,
+          "tpStreamId": "4JD7cDMxU43",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e44"
+          }
+        },
+        {
+          "lectureName": "Generating Shortfilm with FLow and Kling AI",
+          "lectureLength": 1508,
+          "tpStreamId": "3DrBfebZ4AG",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e45"
+          }
+        },
+        {
+          "lectureName": "Eleven labs and SUNO AI for AI films",
+          "lectureLength": 2111,
+          "tpStreamId": "9R6jn3CSMAy",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e46"
+          }
+        },
+        {
+          "lectureName": "Creating AI Ads for a Product",
+          "lectureLength": 982,
+          "tpStreamId": "9fNbTZkCj4z",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e47"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Documentary Video on a Social Topic using Adobe Firefly",
+          "dueDate": {
+            "$date": "2026-06-12T04:45:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bdcc98668a9279c14d169"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bdcc98668a9279c14d16b"
+          }
+        },
+        {
+          "assignmentName": "Create a Short Film on Concept of “A Day That Changed Everything” using Flow and Kling AI",
+          "dueDate": {
+            "$date": "2026-06-12T05:00:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be0908668a9279c14d1cb"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be0908668a9279c14d1cd"
+          }
+        },
+        {
+          "assignmentName": "Generate Music and Narration for your Short Film using SUNO and ElevenLabs",
+          "dueDate": {
+            "$date": "2026-06-12T05:03:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be3838668a9279c14d1d0"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be3838668a9279c14d1d2"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e42"
+      }
+    },
+    {
+      "sectionName": "Complete AI Filmmaing Workflow",
+      "lectures": [
+        {
+          "lectureName": "Social Message Films workflow with Focal ML",
+          "lectureLength": 1585,
+          "tpStreamId": "9f5UGAUzQsG",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e49"
+          }
+        },
+        {
+          "lectureName": "FIlm Postproduction with Narration and Music",
+          "lectureLength": 1075,
+          "tpStreamId": "C5a3yMKDSgC",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e4a"
+          }
+        },
+        {
+          "lectureName": "Regenerating scenes with Gemini",
+          "lectureLength": 821,
+          "tpStreamId": "82c34EU59A4",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e4b"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Social Message Film using Focal ML",
+          "dueDate": {
+            "$date": "2026-06-12T05:16:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1OfiPs2N9OhOVO-vlOHKsqkheBxr0eQhdd5uzahnd3q4/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be3f28668a9279c14d1d5"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be3f28668a9279c14d1d7"
+          }
+        },
+        {
+          "assignmentName": "Regenerate and Fix a Weak Scene of your Film using Gemini",
+          "dueDate": {
+            "$date": "2026-06-12T05:18:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be4648668a9279c14d1da"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be4648668a9279c14d1dc"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e48"
+      }
+    },
+    {
+      "sectionName": "AI Transformation Videos",
+      "lectures": [
+        {
+          "lectureName": "Start and End Frame reference",
+          "lectureLength": 806,
+          "tpStreamId": "4bFCr92HXMM",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e4d"
+          }
+        },
+        {
+          "lectureName": "AI for Visual Effects",
+          "lectureLength": 1142,
+          "tpStreamId": "B3j4K2dFJ5b",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e4e"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Room Makeover Transformation Video using Start and End Frame",
+          "dueDate": {
+            "$date": "2026-06-12T05:20:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be4ac8668a9279c14d1df"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be4ac8668a9279c14d1e1"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e4c"
+      }
+    },
+    {
+      "sectionName": "AI Graphic Novels and Presentation Videos",
+      "lectures": [
+        {
+          "lectureName": "Working with Notebook LM",
+          "lectureLength": 972,
+          "tpStreamId": "6EEy9qN54Tg",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e50"
+          }
+        },
+        {
+          "lectureName": "Creating AI Graphic Novels",
+          "lectureLength": 485,
+          "tpStreamId": "ARhapAh2Fc2",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e51"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create an AI Graphic Novel from a Short Story",
+          "dueDate": {
+            "$date": "2026-06-12T05:21:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be5248668a9279c14d1e4"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be5248668a9279c14d1e6"
+          }
+        },
+        {
+          "assignmentName": "Generate an Audio Overview of your Story using Notebook LM",
+          "dueDate": {
+            "$date": "2026-06-12T05:23:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2be9af8668a9279c14d27c"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2be9af8668a9279c14d27e"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e4f"
+      }
+    },
+    {
+      "sectionName": "Movies Visual Effects with  AI",
+      "lectures": [
+        {
+          "lectureName": "Integrating  characters in AI Scene",
+          "lectureLength": 909,
+          "tpStreamId": "7ARaN89yrxJ",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e53"
+          }
+        },
+        {
+          "lectureName": "Refining Prompts to enhance AI videos",
+          "lectureLength": 302,
+          "tpStreamId": "BX2pjJS8RhA",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e54"
+          }
+        },
+        {
+          "lectureName": "Generating Avatar Based AI Videos",
+          "lectureLength": 420,
+          "tpStreamId": "63J4uYXTZSd",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e55"
+          }
+        },
+        {
+          "lectureName": "Creating AI Ads for a Product",
+          "lectureLength": 982,
+          "tpStreamId": "9fNbTZkCj4z",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "69ff44a28668a9279c142e56"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Complete Product AD with Character Integration and VFX ",
+          "dueDate": {
+            "$date": "2026-06-12T05:42:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2bea0e8668a9279c14d281"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2bea0e8668a9279c14d283"
+          }
+        },
+        {
+          "assignmentName": "[ Capstone Assignment ]Reel for a Laundry App ",
+          "dueDate": {
+            "$date": "2026-06-14T02:09:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing",
+          "assignmentId": {
+            "$oid": "6a2e5aed8668a9279c14d35c"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a2e5aee8668a9279c14d35e"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "69ff44a28668a9279c142e52"
+      }
+    },
+    {
+      "sectionName": "Final project",
+      "lectures": [
+        {
+          "lectureName": "AI project Overview",
+          "lectureLength": 1228,
+          "tpStreamId": "3AnuEtABrEs",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3a8668a9279c156237"
+          }
+        },
+        {
+          "lectureName": "AI project with VEO 3",
+          "lectureLength": 1441,
+          "tpStreamId": "4tQAyrZcus3",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3b8668a9279c15623a"
+          }
+        },
+        {
+          "lectureName": "Experimenting with VEO 3",
+          "lectureLength": 611,
+          "tpStreamId": "6XtnEQzfDbt",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3b8668a9279c15623d"
+          }
+        },
+        {
+          "lectureName": "AI project with Gemini",
+          "lectureLength": 857,
+          "tpStreamId": "4KBZteY2rCP",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3b8668a9279c156240"
+          }
+        },
+        {
+          "lectureName": "Character Consistancy",
+          "lectureLength": 540,
+          "tpStreamId": "9h4Nbp7MBXz",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3c8668a9279c156243"
+          }
+        },
+        {
+          "lectureName": "Product ad with Gemini Omni",
+          "lectureLength": 968,
+          "tpStreamId": "3nhCsdCPB5h",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3c8668a9279c156246"
+          }
+        },
+        {
+          "lectureName": "Google FLow",
+          "lectureLength": 2113,
+          "tpStreamId": "4tDNK88Ks7d",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3c8668a9279c156249"
+          }
+        },
+        {
+          "lectureName": "Advance Google flow",
+          "lectureLength": 3208,
+          "tpStreamId": "5PXYQeKrDcS",
+          "resource": [],
+          "aws_url": "s3://td-course-videos/AI Video Genration/",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a7b3d8668a9279c15624c"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Create a Minimum 5-Minute AI Short Film (100% AI-Made)",
+          "dueDate": {
+            "$date": "2026-06-23T07:52:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0",
+          "assignmentId": {
+            "$oid": "6a3a8f5b8668a9279c156250"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a3a8f5b8668a9279c156252"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a3a7b2e8668a9279c156234"
+      }
+    }
+  ],
+  "resource": [],
+  "notes": [],
+  "s3BackupPlay": false,
+  "active": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-05-09T14:28:50.440Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-17T07:25:07.963Z"
+  },
+  "__v": 3
+}
