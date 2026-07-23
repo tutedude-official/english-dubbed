@@ -123,10 +123,10 @@ async function main() {
   const uploadMs = Date.now() - uploadStart;
   L.success(`Upload complete in ${fmtDuration(uploadMs)}`);
 
-  // Cleanup tmp
-  if (fs.existsSync(tmpDir)) {
-    fs.rmSync(tmpDir, { recursive: true, force: true });
-    L.success(`Deleted tmp folder → ${tmpDir}`);
+  // Cleanup entire lecture output folder after successful upload
+  if (fs.existsSync(lectureDir)) {
+    fs.rmSync(lectureDir, { recursive: true, force: true });
+    L.success(`Deleted output folder → ${lectureDir}`);
   }
 
   // Final summary
