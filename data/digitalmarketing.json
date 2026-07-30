@@ -1,0 +1,3171 @@
+{
+  "_id": {
+    "$oid": "6a6305528668a9279c1634c1"
+  },
+  "courseName": "Digital Marketing",
+  "slug": "digitalmarketing",
+  "category": "Marketing",
+  "bucket": "s3://td-course-videos/Digital Marketing New/",
+  "folderName": "Digital Marketin New",
+  "tpFolderId": "7MngybzcHcB",
+  "sections": [
+    {
+      "sectionName": "How to connect with mentors and Resolve doubts",
+      "lectures": [
+        {
+          "lectureName": "How to connect with mentors and Resolve doubts",
+          "lectureLength": 221,
+          "tpStreamId": "8QNpe5cQ2Ut",
+          "resource": [],
+          "aws_url": "https://td-course-videos.s3.ap-south-1.amazonaws.com/DSA%20With%20Java/Intro.mp4",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634c3"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c1634c2"
+      }
+    },
+    {
+      "sectionName": "Introduction to Digital Marketing Course",
+      "resources": "",
+      "lectures": [
+        {
+          "lectureName": "Intro to Digital Marketing",
+          "lectureLength": 835,
+          "gumletVideoId": "6900eab1566e79be7b4baba8",
+          "tpStreamId": "BNYHBFB5qKP",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634c5"
+          }
+        },
+        {
+          "lectureName": "Benefits of DM",
+          "lectureLength": 1225,
+          "gumletVideoId": "6900e9a160d267cdc0643d9f",
+          "tpStreamId": "4yERpU5BEfS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634c6"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Introduction to Digital Marketing",
+          "dueDate": {
+            "$date": "2026-07-27T04:08:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/10RuGSSV_AYllzQ6MRrzdHnFTzgEEgCjt/edit#heading=h.6ow2k2hjubtb",
+          "assignmentId": {
+            "$oid": "6a67275c8668a9279c165601"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a67275c8668a9279c165603"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c1634c4"
+      }
+    },
+    {
+      "sectionName": "Market Research",
+      "resources": "",
+      "lectures": [
+        {
+          "lectureName": "Creating Customer Personas",
+          "lectureLength": 2877,
+          "gumletVideoId": "6900e9df60d267cdc0644519",
+          "tpStreamId": "EAezBD9mT7F",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634c8"
+          }
+        },
+        {
+          "lectureName": "Marketing Mix ",
+          "lectureLength": 2760,
+          "gumletVideoId": "6900eae560d267cdc0645e25",
+          "tpStreamId": "qPxk2q7XZNT",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634c9"
+          }
+        },
+        {
+          "lectureName": "Market Research 2",
+          "lectureLength": 2257,
+          "gumletVideoId": "6900eae15ecad45f6c8e7a4a",
+          "tpStreamId": "5UY4B6BuhXM",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ca"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Market Research Customer Personas",
+          "dueDate": {
+            "$date": "2026-07-27T04:09:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1c013GF2Ql4dr14MflJwRqS0TH0Av8re0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a67277e8668a9279c165606"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a67277e8668a9279c165608"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c1634c7"
+      }
+    },
+    {
+      "sectionName": "Content Marketing",
+      "resources": "",
+      "lectures": [
+        {
+          "lectureName": "Intro to Content Marketing and Why we are learning _final",
+          "lectureLength": 364,
+          "tpStreamId": "5THjRPq2TDD",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d048668a9279c16366a"
+          }
+        },
+        {
+          "lectureName": "Walkthrough of Canva Tool",
+          "lectureLength": 631,
+          "tpStreamId": "C5H5ghnCCHd",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d048668a9279c16366d"
+          }
+        },
+        {
+          "lectureName": "Creating PPT using the Canva",
+          "lectureLength": 606,
+          "tpStreamId": "7DAZGccRDdC",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163670"
+          }
+        },
+        {
+          "lectureName": "Creating Video Content using AI and Canva",
+          "lectureLength": 1183,
+          "tpStreamId": "A7K8Grmffq4",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163673"
+          }
+        },
+        {
+          "lectureName": "How to use Canva AI",
+          "lectureLength": 613,
+          "tpStreamId": "7m4fUczS4yr",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163676"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Web Content Marketing & Content Strategy",
+          "dueDate": {
+            "$date": "2026-07-27T04:10:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1fghruW46ftidOahbV78Nkuy0FPNC8ofq/edit#heading=h.bshpm35n326w",
+          "assignmentId": {
+            "$oid": "6a6727be8668a9279c16560b"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6727be8668a9279c16560d"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c16356c"
+      }
+    },
+    {
+      "sectionName": "Introduction to Web Development",
+      "lectures": [
+        {
+          "lectureName": "Importance of Web Development",
+          "lectureLength": 821,
+          "tpStreamId": "AZSjREFe8Fn",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163679"
+          }
+        },
+        {
+          "lectureName": "Types of Websites",
+          "lectureLength": 1038,
+          "tpStreamId": "BJTFsNZTcE3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16367c"
+          }
+        },
+        {
+          "lectureName": "Web 1.0, Web 2.0, Web 3.0",
+          "lectureLength": 1191,
+          "tpStreamId": "6FHcz8aJe9s",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16367f"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315c18668a9279c16362b"
+      }
+    },
+    {
+      "sectionName": "Website Basics & Technologies",
+      "lectures": [
+        {
+          "lectureName": "Static vs Dynamic Websites",
+          "lectureLength": 667,
+          "tpStreamId": "68A6fF3KfSE",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163685"
+          }
+        },
+        {
+          "lectureName": "CMS (Content Management System)",
+          "lectureLength": 919,
+          "tpStreamId": "4qq2d4S8J3e",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163682"
+          }
+        },
+        {
+          "lectureName": "Why We Are Using WordPress",
+          "lectureLength": 457,
+          "tpStreamId": "5PJfbCJnXpH",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163689"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315c78668a9279c16362d"
+      }
+    },
+    {
+      "sectionName": "Website Categories & Assets",
+      "lectures": [
+        {
+          "lectureName": "Assets Required for Website Development",
+          "lectureLength": 905,
+          "tpStreamId": "8spfSkNBrFF",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16368c"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315ce8668a9279c16362f"
+      }
+    },
+    {
+      "sectionName": "Domain & Hosting Essentials",
+      "lectures": [
+        {
+          "lectureName": "What is Domain & Hosting",
+          "lectureLength": 902,
+          "tpStreamId": "3XA5NTUyQrA",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16368f"
+          }
+        },
+        {
+          "lectureName": "How to purchase the Domain Name from the Go daddy",
+          "lectureLength": 1244,
+          "tpStreamId": "6FmP7m9YArJ",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163692"
+          }
+        },
+        {
+          "lectureName": "How to purchase the Hosting for website",
+          "lectureLength": 718,
+          "tpStreamId": "Bj7kJHdppE3",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163695"
+          }
+        },
+        {
+          "lectureName": "How to Connet DNS and Name server",
+          "lectureLength": 886,
+          "tpStreamId": "5uAhrpgxqXp",
+          "resource": [],
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c163698"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Website Planning Domain Hosting",
+          "dueDate": {
+            "$date": "2026-07-27T04:11:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1IVyScIv5fK_XGDF4muTF048Zu0-nvvoO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6728518668a9279c165610"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6728518668a9279c165612"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315d38668a9279c163631"
+      }
+    },
+    {
+      "sectionName": "Website building with Wordpress",
+      "lectures": [
+        {
+          "lectureName": "Introduction to the Local Host",
+          "lectureLength": 625,
+          "tpStreamId": "A5JrgQhthTN",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16369b"
+          }
+        },
+        {
+          "lectureName": "How to Download the Xampp",
+          "lectureLength": 602,
+          "tpStreamId": "34CRTHjJXcN",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d058668a9279c16369e"
+          }
+        },
+        {
+          "lectureName": "Running and Configuring XAMPP",
+          "lectureLength": 918,
+          "tpStreamId": "6EGmprsRuQQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636a1"
+          }
+        },
+        {
+          "lectureName": "How to Install the Wordpress into the PC",
+          "lectureLength": 604,
+          "tpStreamId": "5ACqTktHqu7",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636a4"
+          }
+        },
+        {
+          "lectureName": "How to create the Database in Xampp",
+          "lectureLength": 468,
+          "tpStreamId": "3d3Y8BRHhNR",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636a7"
+          }
+        },
+        {
+          "lectureName": "How to Configure and Install the Wordpress",
+          "lectureLength": 661,
+          "tpStreamId": "95GpMNADaC8",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636aa"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c1634cb"
+      }
+    },
+    {
+      "sectionName": "Website Development (Practical Implementation using AI)",
+      "lectures": [
+        {
+          "lectureName": "how to install the wordpress in Cpanel",
+          "lectureLength": 1201,
+          "tpStreamId": "9RUR526yHb8",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636ad"
+          }
+        },
+        {
+          "lectureName": "Starting with Digtial marketing Agency website",
+          "lectureLength": 902,
+          "tpStreamId": "5H7YT7cDPJs",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636b0"
+          }
+        },
+        {
+          "lectureName": "Theme Settings Appearance Customize",
+          "lectureLength": 1803,
+          "tpStreamId": "8tZUgSAHSAx",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636b3"
+          }
+        },
+        {
+          "lectureName": "How to Update the Blog into the wordpress",
+          "lectureLength": 1916,
+          "tpStreamId": "7RKREcsyhFK",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636b6"
+          }
+        },
+        {
+          "lectureName": "Landing Page Creation (Using Astra Theme)",
+          "lectureLength": 914,
+          "tpStreamId": "6qUFjMtXjjg",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636b9"
+          }
+        },
+        {
+          "lectureName": "How to Reset Website (Plugin - reset)",
+          "lectureLength": 299,
+          "tpStreamId": "9zt2dBEt2P4",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636bc"
+          }
+        },
+        {
+          "lectureName": "How to give prompt to the AI for the website Creation",
+          "lectureLength": 518,
+          "tpStreamId": "9P5UXMkCKQy",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636bf"
+          }
+        },
+        {
+          "lectureName": "How to Take Backup of the website",
+          "lectureLength": 812,
+          "tpStreamId": "AHEQzU682TY",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636c2"
+          }
+        },
+        {
+          "lectureName": "How to crearte website Using AI",
+          "lectureLength": 509,
+          "tpStreamId": "83Z4fr3zpqy",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636c5"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "WordPress Website Development",
+          "dueDate": {
+            "$date": "2026-07-27T04:13:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1EBxuqmPkBczUaT75kHF2hrtBmQKgDZNf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672a4d8668a9279c16580e"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672a4d8668a9279c165810"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315df8668a9279c163635"
+      }
+    },
+    {
+      "sectionName": "Shopify Website Creation",
+      "lectures": [
+        {
+          "lectureName": "Intro to Shopify Platform",
+          "lectureLength": 362,
+          "tpStreamId": "AcFAQXUTDtZ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636c8"
+          }
+        },
+        {
+          "lectureName": "Difference Between Marketplace And Ecom website",
+          "lectureLength": 620,
+          "tpStreamId": "5cxb7uqZzb6",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636cb"
+          }
+        },
+        {
+          "lectureName": "How to create Account into the Shopify",
+          "lectureLength": 734,
+          "tpStreamId": "Gt9bpHcZs5E",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636ce"
+          }
+        },
+        {
+          "lectureName": "how _to Edit the Theme in Shopify",
+          "lectureLength": 969,
+          "tpStreamId": "3pTezThuf8u",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d068668a9279c1636d1"
+          }
+        },
+        {
+          "lectureName": "How to Add Product into the Shopify Product",
+          "lectureLength": 972,
+          "tpStreamId": "82ysAMUjeGG",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636d4"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Shopify Store Creation",
+          "dueDate": {
+            "$date": "2026-07-27T04:22:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1OZL8Sysj8QgbZjrSTQGPNkdDxtO67IeT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672a728668a9279c165813"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672a728668a9279c165815"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315e48668a9279c163637"
+      }
+    },
+    {
+      "sectionName": "Email Marketing",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Email Marketing",
+          "lectureLength": 740,
+          "tpStreamId": "3JUCtGtTsBg",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636d7"
+          }
+        },
+        {
+          "lectureName": "Types Of Emails",
+          "lectureLength": 733,
+          "tpStreamId": "9SecdBD8nXm",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636da"
+          }
+        },
+        {
+          "lectureName": "What is ESP - Email Service Provider",
+          "lectureLength": 668,
+          "tpStreamId": "BKJeSuRB2rP",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636dd"
+          }
+        },
+        {
+          "lectureName": "How to get Professional Mail",
+          "lectureLength": 1570,
+          "tpStreamId": "AnppexxTdB6",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636e0"
+          }
+        },
+        {
+          "lectureName": "How to Create account in Brevo (Email Service Provider)",
+          "lectureLength": 687,
+          "tpStreamId": "deFMekjYkB3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636e3"
+          }
+        },
+        {
+          "lectureName": "How to add Professional Mail into the Brevo or ESP",
+          "lectureLength": 631,
+          "tpStreamId": "umE3RapkB8D",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636e6"
+          }
+        },
+        {
+          "lectureName": "Journey of Email Marketing",
+          "lectureLength": 387,
+          "tpStreamId": "8QNbUzbMySn",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636e9"
+          }
+        },
+        {
+          "lectureName": "How to Extract Cold Mail using Tool",
+          "lectureLength": 222,
+          "tpStreamId": "4qDedSrJgeF",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636ec"
+          }
+        },
+        {
+          "lectureName": "How to Import the Contact List into the Brevo",
+          "lectureLength": 621,
+          "tpStreamId": "C4k7ZTy7ztJ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636ef"
+          }
+        },
+        {
+          "lectureName": "Introduction to Reputation Score",
+          "lectureLength": 788,
+          "tpStreamId": "9sTcTNdamMp",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636f2"
+          }
+        },
+        {
+          "lectureName": "How to Send Mail into the Brevo",
+          "lectureLength": 1222,
+          "tpStreamId": "9gYHHPG3MzD",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636f5"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Email Marketing Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T04:22:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1VOkncPEQfKlAgdaQQOchz5pnvnA5oNDc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672b1e8668a9279c165818"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672b1e8668a9279c16581a"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6315ef8668a9279c163639"
+      }
+    },
+    {
+      "sectionName": "AdSense Marketing (Manual Setup)",
+      "lectures": [
+        {
+          "lectureName": "Intro to Google Adsense",
+          "lectureLength": 621,
+          "tpStreamId": "85tMXDsdZ5h",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636f8"
+          }
+        },
+        {
+          "lectureName": "How to setup Google adsense into the Website",
+          "lectureLength": 692,
+          "tpStreamId": "9SEPJTzyCSS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636fb"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google AdSense Setup",
+          "dueDate": {
+            "$date": "2026-07-27T04:25:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1dUa-SWTRpl1hQrOOINW70eQK3cVORyX9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672b728668a9279c165a1c"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672b728668a9279c165a1e"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63162c8668a9279c16363b"
+      }
+    },
+    {
+      "sectionName": "Introduction to SEO",
+      "lectures": [
+        {
+          "lectureName": "What is SEO",
+          "lectureLength": 596,
+          "gumletVideoId": "6905d8a8a5b40b283e25c258",
+          "tpStreamId": "7Am2EtYuTre",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634d8"
+          }
+        },
+        {
+          "lectureName": "Why Seo",
+          "lectureLength": 578,
+          "gumletVideoId": "6905d8aaa5b40b283e25c275",
+          "tpStreamId": "B7rhhPfS8ZC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634d9"
+          }
+        },
+        {
+          "lectureName": "What is search Engines",
+          "lectureLength": 523,
+          "gumletVideoId": "6905d8aca73e176902845d25",
+          "tpStreamId": "BDMYbczUQGY",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634da"
+          }
+        },
+        {
+          "lectureName": "Search engine Working",
+          "lectureLength": 1137,
+          "gumletVideoId": "6900fcaf566e79be7b4d8be5",
+          "tpStreamId": "Y22UMagguGg",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634db"
+          }
+        },
+        {
+          "lectureName": "SERP",
+          "lectureLength": 1197,
+          "gumletVideoId": "69060f37aa9e79860d69ce64",
+          "tpStreamId": "54EUkRjnjt2",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634dc"
+          }
+        },
+        {
+          "lectureName": "Keyword Fundamentals",
+          "lectureLength": 675,
+          "gumletVideoId": "6905d8aea5b40b283e25c2b4",
+          "tpStreamId": "APkHhN62HJU",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634dd"
+          }
+        },
+        {
+          "lectureName": "type of keywords",
+          "lectureLength": 860,
+          "gumletVideoId": "6905d8b0a73e176902845d92",
+          "tpStreamId": "B5q6aKxU9cC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634de"
+          }
+        },
+        {
+          "lectureName": "type of seo",
+          "lectureLength": 956,
+          "gumletVideoId": "6905d8b2aa9e79860d66ad4c",
+          "tpStreamId": "5fxMesqXzdb",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634df"
+          }
+        },
+        {
+          "lectureName": "What is technical seo",
+          "lectureLength": 701,
+          "gumletVideoId": "6905d8b4aa9e79860d66ad6d",
+          "tpStreamId": "s3snbx38EXM",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e0"
+          }
+        },
+        {
+          "lectureName": "What is on Page seo",
+          "lectureLength": 135,
+          "gumletVideoId": "6905d8b6aa9e79860d66ad92",
+          "tpStreamId": "AK7RntJxkuq",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e1"
+          }
+        },
+        {
+          "lectureName": "What is Off Page",
+          "lectureLength": 880,
+          "gumletVideoId": "6905d8b8a5b40b283e25c334",
+          "tpStreamId": "9mCRqBfHh3x",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e2"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "SEO Fundamentals Technical Audit",
+          "dueDate": {
+            "$date": "2026-07-27T04:27:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/17YaJL9Dbv562zqWyNI2sMRaZW6aeT1-Z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672bef8668a9279c165a21"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672bef8668a9279c165a23"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a635de78668a9279c1644d4"
+      }
+    },
+    {
+      "sectionName": "Keyword Research",
+      "lectures": [
+        {
+          "lectureName": "Importance of Keyword Research",
+          "lectureLength": 467,
+          "gumletVideoId": "6905d8bba5b40b283e25c379",
+          "tpStreamId": "539bFyhNGfA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e3"
+          }
+        },
+        {
+          "lectureName": "How to do Keyword research",
+          "lectureLength": 220,
+          "gumletVideoId": "6900ea68566e79be7b4ba243",
+          "tpStreamId": "9dZaAR7PMZS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e4"
+          }
+        },
+        {
+          "lectureName": "Keyword Research  - Google Keyword Planner",
+          "lectureLength": 1630,
+          "gumletVideoId": "6905d8bda73e176902845e39",
+          "tpStreamId": "4GGxbTKNm29",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e5"
+          }
+        },
+        {
+          "lectureName": "Keyword Research Tools",
+          "lectureLength": 788,
+          "gumletVideoId": "6905d8bfa5b40b283e25c3e7",
+          "tpStreamId": "7kEGfasMNcf",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e6"
+          }
+        },
+        {
+          "lectureName": "Keyword Research - AI",
+          "lectureLength": 815,
+          "gumletVideoId": "6905d8c1a5b40b283e25c40e",
+          "tpStreamId": "3gma5bpRqar",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e7"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "KeywordResearch",
+          "dueDate": {
+            "$date": "2026-07-27T04:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1oZ6uD537F_I8mBPkg6xx0RQFXMph0Uqh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672c088668a9279c165a26"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672c088668a9279c165a28"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a635dfd8668a9279c16465b"
+      }
+    },
+    {
+      "sectionName": "SEO Startegy ",
+      "lectures": [
+        {
+          "lectureName": "On Page importance",
+          "lectureLength": 426,
+          "gumletVideoId": "6905d8c3a73e176902845eb5",
+          "tpStreamId": "3p2EfuPQFGA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e8"
+          }
+        },
+        {
+          "lectureName": "On page Analysis Tools",
+          "lectureLength": 3503,
+          "gumletVideoId": "6905d8c6a5b40b283e25c498",
+          "tpStreamId": "sTjk7j4tSMh",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634e9"
+          }
+        },
+        {
+          "lectureName": "On Page Analysis by AI ",
+          "lectureLength": 906,
+          "gumletVideoId": "6905d8c8a73e176902845eed",
+          "tpStreamId": "9aU6NFApQdc",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ea"
+          }
+        },
+        {
+          "lectureName": "On Page Seo Checklist ",
+          "lectureLength": 474,
+          "gumletVideoId": "6905d8caa5b40b283e25c4e9",
+          "tpStreamId": "7GnDZqhKNuS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634eb"
+          }
+        },
+        {
+          "lectureName": "Header Tags ",
+          "lectureLength": 1195,
+          "gumletVideoId": "6905d8cca5b40b283e25c50c",
+          "tpStreamId": "9fJGMkZxQZZ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ec"
+          }
+        },
+        {
+          "lectureName": "Image and Alt Tag",
+          "lectureLength": 958,
+          "gumletVideoId": "6905d8ceaa9e79860d66af17",
+          "tpStreamId": "BQDKJft37x3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ed"
+          }
+        },
+        {
+          "lectureName": "How to write effective meta title_ How to write convincing meta description",
+          "lectureLength": 373,
+          "gumletVideoId": "6905d8d0a5b40b283e25c55b",
+          "tpStreamId": "7UCqRkYF752",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ee"
+          }
+        },
+        {
+          "lectureName": "Content Optimization",
+          "lectureLength": 781,
+          "gumletVideoId": "6905d8d2a73e176902845fb5",
+          "tpStreamId": "BF6RQTXmpJu",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ef"
+          }
+        },
+        {
+          "lectureName": "Internal Linking in SEO",
+          "lectureLength": 1081,
+          "gumletVideoId": "6905d8d4a73e176902845fd8",
+          "tpStreamId": "t6Kf82kHKrN",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f0"
+          }
+        },
+        {
+          "lectureName": "Introduction to URL Structure",
+          "lectureLength": 835,
+          "gumletVideoId": "6905d8d6aa9e79860d66af8b",
+          "tpStreamId": "6J4RGDnpSgC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f1"
+          }
+        },
+        {
+          "lectureName": "Types of URL Structure",
+          "lectureLength": 729,
+          "gumletVideoId": "6905d8d8a73e17690284600a",
+          "tpStreamId": "5cnGNNdkRmK",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f2"
+          }
+        },
+        {
+          "lectureName": "Website Structure",
+          "lectureLength": 975,
+          "gumletVideoId": "6905d8daa5b40b283e25c5fa",
+          "tpStreamId": "3QDDuByYjzx",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f3"
+          }
+        },
+        {
+          "lectureName": "Robots.txt",
+          "lectureLength": 1329,
+          "gumletVideoId": "6905d8dca5b40b283e25c685",
+          "tpStreamId": "9cD46b7A27D",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f4"
+          }
+        },
+        {
+          "lectureName": "What is Sitemap (Sitemap.xml and sitemap)",
+          "lectureLength": 1999,
+          "gumletVideoId": "6905d8deaa9e79860d66b067",
+          "tpStreamId": "AZ5af5upx3g",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f5"
+          }
+        },
+        {
+          "lectureName": "Website Speed Test",
+          "lectureLength": 1988,
+          "gumletVideoId": "6905d8e0a5b40b283e25c6bb",
+          "tpStreamId": "3EdXTc9AMH2",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f6"
+          }
+        },
+        {
+          "lectureName": "What is W3c Validator & its uses",
+          "lectureLength": 877,
+          "gumletVideoId": "6905d8e2a5b40b283e25c6d8",
+          "tpStreamId": "B9pNpnEkCp8",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f7"
+          }
+        },
+        {
+          "lectureName": "Canonical issue",
+          "lectureLength": 1330,
+          "gumletVideoId": "6905d8e4aa9e79860d66b0ad",
+          "tpStreamId": "8FCnZrhsARb",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f8"
+          }
+        },
+        {
+          "lectureName": "Custom Error Page",
+          "lectureLength": 646,
+          "gumletVideoId": "6905d8e6a73e17690284614d",
+          "tpStreamId": "4fJqsPc3G4h",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634f9"
+          }
+        },
+        {
+          "lectureName": "What is Backlinks & its types",
+          "lectureLength": 1117,
+          "gumletVideoId": "6905d8e8a5b40b283e25c762",
+          "tpStreamId": "6gUjcGbuPjd",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634fa"
+          }
+        },
+        {
+          "lectureName": "Backlinks Quality factors",
+          "lectureLength": 1639,
+          "gumletVideoId": "6905d8eaaa9e79860d66b12f",
+          "tpStreamId": "BKcgH3c7Eys",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634fb"
+          }
+        },
+        {
+          "lectureName": "Off Page Submission Activities",
+          "lectureLength": 453,
+          "gumletVideoId": "6905d8eda5b40b283e25c797",
+          "tpStreamId": "7geQTQX9adT",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634fc"
+          }
+        },
+        {
+          "lectureName": "Blog Submission",
+          "lectureLength": 1889,
+          "gumletVideoId": "6905d8efa73e1769028461e3",
+          "tpStreamId": "6STyT2EksRB",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634fd"
+          }
+        },
+        {
+          "lectureName": "Article submission",
+          "lectureLength": 1658,
+          "gumletVideoId": "6905d8f1a5b40b283e25c7e5",
+          "tpStreamId": "93JZUEF2HAQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634fe"
+          }
+        },
+        {
+          "lectureName": "Classified Submission",
+          "lectureLength": 1451,
+          "gumletVideoId": "6905d8f3a73e17690284621a",
+          "tpStreamId": "5DhDfUGaTkJ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c1634ff"
+          }
+        },
+        {
+          "lectureName": "panda algorithm",
+          "lectureLength": 982,
+          "gumletVideoId": "6905d8f5a5b40b283e25c831",
+          "tpStreamId": "6y3r9KbthmJ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163500"
+          }
+        },
+        {
+          "lectureName": "What is Broken Links",
+          "lectureLength": 1325,
+          "gumletVideoId": "6905d8f7a73e17690284624a",
+          "tpStreamId": "6fpAKnZH8qK",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163501"
+          }
+        },
+        {
+          "lectureName": "What is META tags_ Meta Tags Preview",
+          "lectureLength": 1856,
+          "gumletVideoId": "6905d8f9a73e17690284625f",
+          "tpStreamId": "BMmCeZuBNpM",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163502"
+          }
+        },
+        {
+          "lectureName": "Send Proposal",
+          "lectureLength": 365,
+          "tpStreamId": "7Smc4yRDYx2",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163503"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "On Page Off Page SEO Strategy",
+          "dueDate": {
+            "$date": "2026-07-27T04:29:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1c8s8R8_ChjqgRBFI1Niu5_XAmVUP5B7N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672c268668a9279c165a2b"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672c268668a9279c165a2d"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a635dfd8668a9279c164661"
+      }
+    },
+    {
+      "sectionName": "Copywriting",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Copy Writing",
+          "lectureLength": 697,
+          "tpStreamId": "8A2E4hGN4Hm",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c1636fe"
+          }
+        },
+        {
+          "lectureName": "Case Studies of Copy Writing",
+          "lectureLength": 1117,
+          "tpStreamId": "BfP9GeP3A8H",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d078668a9279c163701"
+          }
+        },
+        {
+          "lectureName": "Content writing Vs Copy Writing & PowerFull Words_final",
+          "lectureLength": 629,
+          "tpStreamId": "rtGG9Tb6NuY",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163704"
+          }
+        },
+        {
+          "lectureName": "Deep Down into the Copy Writing",
+          "lectureLength": 192,
+          "tpStreamId": "78RkuRCpMSm",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163707"
+          }
+        },
+        {
+          "lectureName": "What is CTA button and How to use it",
+          "lectureLength": 547,
+          "tpStreamId": "tURQJ6dp7nA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c16370a"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Sales Psychology Copywriting Customer Service",
+          "dueDate": {
+            "$date": "2026-07-27T04:30:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1UZYv8UfpLLJBPK33J1ugod2_jsAsxuf2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a672c488668a9279c165a30"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a672c488668a9279c165a32"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6316328668a9279c16363d"
+      }
+    },
+    {
+      "sectionName": "Social media marketing",
+      "lectures": [
+        {
+          "lectureName": "Introduction to the Social media marketing",
+          "lectureLength": 1249,
+          "tpStreamId": "6brkqBfc8DJ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c16370d"
+          }
+        },
+        {
+          "lectureName": "ECLPC Approach of Marketing",
+          "lectureLength": 1125,
+          "tpStreamId": "B4n9k8XjR4q",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163710"
+          }
+        },
+        {
+          "lectureName": "Introduction to the Facebook",
+          "lectureLength": 660,
+          "tpStreamId": "6tbbh4escTA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163713"
+          }
+        },
+        {
+          "lectureName": "FB Profile vs. Page And its creation",
+          "lectureLength": 1251,
+          "tpStreamId": "8d3UNmg6CRA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633fa88668a9279c1637bb"
+          }
+        },
+        {
+          "lectureName": "How to Create an Instagram",
+          "lectureLength": 709,
+          "tpStreamId": "9tGA66KQb7m",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163717"
+          }
+        },
+        {
+          "lectureName": "How to Merge Facebook Page and Business Instagram",
+          "lectureLength": 579,
+          "tpStreamId": "5GnG6nEzcNP",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c16371a"
+          }
+        },
+        {
+          "lectureName": "How to Monetize the Facebook Page",
+          "lectureLength": 325,
+          "tpStreamId": "9QE3Uf9Z4YE",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c16371d"
+          }
+        },
+        {
+          "lectureName": "Hook and Jab Strategy of the Social Media",
+          "lectureLength": 1612,
+          "tpStreamId": "BkRB26dESec",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163720"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Social Media Profile Business Manager Setup",
+          "dueDate": {
+            "$date": "2026-07-27T04:30:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1FjtxutJxLbcgCUOm8uFtqXwWbJcI7eqB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6733318668a9279c165a35"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6733318668a9279c165a37"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6317238668a9279c163640"
+      }
+    },
+    {
+      "sectionName": "Instagram Optimization",
+      "lectures": [
+        {
+          "lectureName": "Practical Implementation of Content Calender",
+          "lectureLength": 902,
+          "tpStreamId": "4CsK3KB25Kj",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163723"
+          }
+        },
+        {
+          "lectureName": "How to switch Personal to Professional account",
+          "lectureLength": 332,
+          "tpStreamId": "GPDc7k7DDKZ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163726"
+          }
+        },
+        {
+          "lectureName": "Setting Up an Optimized Instagram Profile",
+          "lectureLength": 534,
+          "tpStreamId": "8AnYXyT9fut",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d088668a9279c163729"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6317628668a9279c163642"
+      }
+    },
+    {
+      "sectionName": "Business Manager",
+      "lectures": [
+        {
+          "lectureName": "Business Manager Account Creation",
+          "lectureLength": 825,
+          "tpStreamId": "AbTcHuDk3rj",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d098668a9279c16372c"
+          }
+        },
+        {
+          "lectureName": "How to ADD Page in Business Portfolio",
+          "lectureLength": 614,
+          "tpStreamId": "AU78h2gxK3A",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d098668a9279c16372f"
+          }
+        },
+        {
+          "lectureName": "Automation in Business Manaager & Schdeuling of Post",
+          "lectureLength": 903,
+          "tpStreamId": "7mBM6eAHkjb",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d098668a9279c163732"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6317698668a9279c163644"
+      }
+    },
+    {
+      "sectionName": "Ad Manager Account",
+      "lectures": [
+        {
+          "lectureName": "Meta Ad Account Creation",
+          "lectureLength": 842,
+          "tpStreamId": "4yby5hBhDzX",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d098668a9279c163735"
+          }
+        },
+        {
+          "lectureName": "Walkthrough of Ad manager account",
+          "lectureLength": 611,
+          "tpStreamId": "Bb2Z2yaHftc",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d098668a9279c163738"
+          }
+        },
+        {
+          "lectureName": "Types of Objective in Meta Ads_final",
+          "lectureLength": 615,
+          "tpStreamId": "9gxmmKA8CBQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16373c"
+          }
+        },
+        {
+          "lectureName": "Structure of Ad Managaer",
+          "lectureLength": 614,
+          "tpStreamId": "7G4TnE3nauF",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16373f"
+          }
+        },
+        {
+          "lectureName": "Meta Ads Library",
+          "lectureLength": 407,
+          "tpStreamId": "Abty73aByjf",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163742"
+          }
+        },
+        {
+          "lectureName": "Intro of Traffic Campaign",
+          "lectureLength": 141,
+          "tpStreamId": "8paKm4bfZyH",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163745"
+          }
+        },
+        {
+          "lectureName": "Name Convention of the Campaigns",
+          "lectureLength": 536,
+          "tpStreamId": "ButKZkbTYbC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163748"
+          }
+        },
+        {
+          "lectureName": "CBO and ABO",
+          "lectureLength": 609,
+          "tpStreamId": "BBmEF948Qtr",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16374b"
+          }
+        },
+        {
+          "lectureName": "A B testing",
+          "lectureLength": 301,
+          "tpStreamId": "9ZqC3JhSz5x",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16374e"
+          }
+        },
+        {
+          "lectureName": "Bidding Types in Meta Ads",
+          "lectureLength": 726,
+          "tpStreamId": "3efmR9eDdhf",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163751"
+          }
+        },
+        {
+          "lectureName": "Ad set Levle of Traffic Campaign",
+          "lectureLength": 1058,
+          "tpStreamId": "AmATckNqhBA",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163754"
+          }
+        },
+        {
+          "lectureName": "Ads Level of Traffic Campaign",
+          "lectureLength": 264,
+          "tpStreamId": "ApXmj6ceSG4",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c163757"
+          }
+        },
+        {
+          "lectureName": "Ad Copy Creation into the Traffic Campaign",
+          "lectureLength": 602,
+          "tpStreamId": "8mU5sk3x8Cn",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16375a"
+          }
+        },
+        {
+          "lectureName": "Lead Gen Campaign and How to create Lead Gen Form",
+          "lectureLength": 724,
+          "tpStreamId": "8duJ76tFBTk",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0a8668a9279c16375d"
+          }
+        },
+        {
+          "lectureName": "How to Setup Pixel and Re-marketing",
+          "lectureLength": 1846,
+          "tpStreamId": "8Qadsqj63BT",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163760"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Meta Ads Manager Campaign Setup",
+          "dueDate": {
+            "$date": "2026-07-27T05:00:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1JxZH51_msEa2z2VnQ-7lXABlOuqch2iI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6733808668a9279c165a40"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6733808668a9279c165a42"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63176f8668a9279c163646"
+      }
+    },
+    {
+      "sectionName": "Linkedin Marketing",
+      "lectures": [
+        {
+          "lectureName": "Introduction to the Linkedin Marketing",
+          "lectureLength": 995,
+          "tpStreamId": "BnhJANc77T7",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163763"
+          }
+        },
+        {
+          "lectureName": "Deep Dive into the Linkedin Optimization",
+          "lectureLength": 1331,
+          "tpStreamId": "BgfjXNzyPu6",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163766"
+          }
+        },
+        {
+          "lectureName": "How to create Linkedin Page",
+          "lectureLength": 305,
+          "tpStreamId": "3F2fSsG92B8",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163769"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "LinkedIn Marketing Ad Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:03:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1AhdZrWuXC0wXA2doWtT8CrMjwx0-M_-w/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6734248668a9279c165a54"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6734248668a9279c165a56"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6317768668a9279c163648"
+      }
+    },
+    {
+      "sectionName": "Twitter Marketing",
+      "lectures": [
+        {
+          "lectureName": "Twitter - Accout and Walkthrough",
+          "lectureLength": 1306,
+          "tpStreamId": "UUBnQd55GKp",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163772"
+          }
+        },
+        {
+          "lectureName": "How to Find out the trensing topic on X",
+          "lectureLength": 165,
+          "tpStreamId": "6j4Dt6ytD6M",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163775"
+          }
+        },
+        {
+          "lectureName": "How to do Thread Posting on X",
+          "lectureLength": 542,
+          "tpStreamId": "39z2StpM9Xk",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163778"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "X (Twitter) Marketing",
+          "dueDate": {
+            "$date": "2026-07-27T05:01:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1RkibCcyBEy3E7Uhu0eMaMizDx3bivxCz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6733ad8668a9279c165a45"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6733ad8668a9279c165a47"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6317868668a9279c16364c"
+      }
+    },
+    {
+      "sectionName": "Whatsapp Marketing",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Whatsap Marketing",
+          "lectureLength": 403,
+          "tpStreamId": "3bKcdMkGBxK",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16377b"
+          }
+        },
+        {
+          "lectureName": "Deep Dive into the Whatsapp Marketing",
+          "lectureLength": 1082,
+          "tpStreamId": "7stuHqete5s",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16377e"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "WhatsApp Marketing Setup",
+          "dueDate": {
+            "$date": "2026-07-27T05:02:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1MakSyplSRALEGUA5P202b3VbDnk1a8GZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6733c48668a9279c165a4a"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6733c48668a9279c165a4c"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63178d8668a9279c16364e"
+      }
+    },
+    {
+      "sectionName": "Pinterest Marketing",
+      "lectures": [
+        {
+          "lectureName": "Intro to Pinterest",
+          "lectureLength": 799,
+          "tpStreamId": "BZyrzf6JcjT",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163781"
+          }
+        },
+        {
+          "lectureName": "Deep Dive into the Pinterest Marketing",
+          "lectureLength": 910,
+          "tpStreamId": "4AEE3JUbeGZ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163784"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Pinterest Marketing",
+          "dueDate": {
+            "$date": "2026-07-27T05:02:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1sXbGnu-DZBEaEZAmvWA6fkvaAqx5Lk9q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6733e38668a9279c165a4f"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6733e38668a9279c165a51"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c1635c9"
+      }
+    },
+    {
+      "sectionName": "Linkedin ads",
+      "lectures": [
+        {
+          "lectureName": "Linkedin Campaign Manaager",
+          "lectureLength": 522,
+          "tpStreamId": "5hh5N2D6ZTh",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16376c"
+          }
+        },
+        {
+          "lectureName": "Campaign Set-Up",
+          "lectureLength": 308,
+          "tpStreamId": "8UFcUNayZ3M",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16376f"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63177e8668a9279c16364a"
+      }
+    },
+    {
+      "sectionName": "Introduction to Google Ads & Paid Marketing",
+      "lectures": [
+        {
+          "lectureName": "Into of Google_ads",
+          "lectureLength": 1273,
+          "tpStreamId": "62CTnnnDyM3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163516"
+          }
+        },
+        {
+          "lectureName": "Types of Ads in Google Ads",
+          "lectureLength": 1836,
+          "tpStreamId": "8TSktQCEr2E",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163517"
+          }
+        },
+        {
+          "lectureName": "How to Create Google Ads Account",
+          "lectureLength": 1038,
+          "tpStreamId": "5S38HRuBbgS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163518"
+          }
+        },
+        {
+          "lectureName": "Structure of Google Ads",
+          "lectureLength": 1909,
+          "tpStreamId": "8TehZuagGrc",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163519"
+          }
+        },
+        {
+          "lectureName": "Structure Category of Google Ads",
+          "lectureLength": 166,
+          "tpStreamId": "Ay5TXbXqnmN",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16351a"
+          }
+        },
+        {
+          "lectureName": "How to Give Acces of Google Ad Account",
+          "lectureLength": 860,
+          "tpStreamId": "BkJttnKMAUk",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16351b"
+          }
+        },
+        {
+          "lectureName": "Basic Google Ads Terminologies",
+          "lectureLength": 654,
+          "tpStreamId": "3PcyTFhjsDm",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16351c"
+          }
+        },
+        {
+          "lectureName": "Objectives and Campaigns of Google Ads",
+          "lectureLength": 863,
+          "tpStreamId": "5cshjTTgzkx",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16351d"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163515"
+      }
+    },
+    {
+      "sectionName": "Search Ads Campaign",
+      "lectures": [
+        {
+          "lectureName": "How to Setup Search Ads Name convention and bidding Strategy_Hindiseries",
+          "lectureLength": 1886,
+          "tpStreamId": "6BepntmdR4C",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16351f"
+          }
+        },
+        {
+          "lectureName": "Google Ads Campaign Setting and Location Setting",
+          "lectureLength": 1467,
+          "tpStreamId": "7JDagbzUp3c",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163520"
+          }
+        },
+        {
+          "lectureName": "Google Ads _language and Audience Segment setting",
+          "lectureLength": 1602,
+          "tpStreamId": "5NKU9aK4crQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163521"
+          }
+        },
+        {
+          "lectureName": "AI Keyword and Asset Generation in Google Ads hindifinal",
+          "lectureLength": 1205,
+          "tpStreamId": "546YkheCCNk",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163522"
+          }
+        },
+        {
+          "lectureName": "How to do Keyword Research using Keyword Planner Tool in Google Ads",
+          "lectureLength": 785,
+          "tpStreamId": "A32H4ZZGakY",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163523"
+          }
+        },
+        {
+          "lectureName": "Types of Keywords Matches in Search Ads ",
+          "lectureLength": 913,
+          "tpStreamId": "623hMRFJAEE",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163524"
+          }
+        },
+        {
+          "lectureName": "Headlines and Description of Search Ads ",
+          "lectureLength": 620,
+          "tpStreamId": "BrSpqDGTcfr",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163525"
+          }
+        },
+        {
+          "lectureName": "What is Extensions in Search Ads _ Final ",
+          "lectureLength": 1175,
+          "tpStreamId": "6MSjd7KQsRg",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163526"
+          }
+        },
+        {
+          "lectureName": "How to set Budget in Search Ads",
+          "lectureLength": 1971,
+          "tpStreamId": "55faaRtfBbt",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163527"
+          }
+        },
+        {
+          "lectureName": "Types of Ad Group in Search ads",
+          "lectureLength": 902,
+          "tpStreamId": "K2zzyJDTr8n",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163528"
+          }
+        },
+        {
+          "lectureName": "How to Check Quality Score and Ad Ranking in Search Ads",
+          "lectureLength": 1368,
+          "tpStreamId": "Ankn9sn5HJC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163529"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google Ads Account Setup Search Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:04:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1eWauoCFWPqBdllNYYN8BckDXhEnGkm-m/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6734628668a9279c165a59"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6734628668a9279c165a5b"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c16351e"
+      }
+    },
+    {
+      "sectionName": "Display Ads Campaign",
+      "lectures": [
+        {
+          "lectureName": "Introduction to the Display Campaign",
+          "lectureLength": 935,
+          "tpStreamId": "93fSk6sNFq9",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16352b"
+          }
+        },
+        {
+          "lectureName": "Display Campaign - Walkthorugh",
+          "lectureLength": 628,
+          "tpStreamId": "AAk3723qCq3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16352c"
+          }
+        },
+        {
+          "lectureName": "How to Create the Display Campaign",
+          "lectureLength": 1448,
+          "tpStreamId": "BUB2QYxUjTb",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16352d"
+          }
+        },
+        {
+          "lectureName": "Ad Group Targeting in Display Ads",
+          "lectureLength": 1579,
+          "tpStreamId": "7gxk6CDBez6",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16352e"
+          }
+        },
+        {
+          "lectureName": "Targeting Options of Display Campaign",
+          "lectureLength": 845,
+          "tpStreamId": "C7qXthybPFm",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16352f"
+          }
+        },
+        {
+          "lectureName": "Ad Copy in Display Campaign",
+          "lectureLength": 578,
+          "tpStreamId": "9Df98xS2BrC",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163530"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Display Advertising Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:05:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1Zx6aZHqU6QY7JsXm7isKCC1b_7ZWQS7W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a67348f8668a9279c165a5e"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a67348f8668a9279c165a60"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c16352a"
+      }
+    },
+    {
+      "sectionName": "Video Advertising",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Video Campaign",
+          "lectureLength": 1192,
+          "tpStreamId": "92CmM3AJfSa",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163532"
+          }
+        },
+        {
+          "lectureName": "Pre- Requirments to Launch Video Campaign",
+          "lectureLength": 894,
+          "tpStreamId": "3YbnJaqxZ94",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163533"
+          }
+        },
+        {
+          "lectureName": "How to Connect Youtube Channel with Google Ad Account",
+          "lectureLength": 404,
+          "tpStreamId": "AZUBS3Ny3Pa",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163534"
+          }
+        },
+        {
+          "lectureName": "Campaign Level of Video Campaign",
+          "lectureLength": 971,
+          "tpStreamId": "66jrRzgBS6u",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163535"
+          }
+        },
+        {
+          "lectureName": "Ad Group Level of Video ads",
+          "lectureLength": 1416,
+          "tpStreamId": "BnmjUtzUKK3",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163536"
+          }
+        },
+        {
+          "lectureName": "Types of Video Ads Format in Video Campaign",
+          "lectureLength": 1278,
+          "tpStreamId": "52JTA9ncRYz",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163537"
+          }
+        },
+        {
+          "lectureName": "How to Calculate CPV in Video Campaign",
+          "lectureLength": 901,
+          "tpStreamId": "7DX4MYxa7AU",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163538"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Video Advertising Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:05:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1yOgjzBFkkluwomfDMJ3sewk9xzHdsTQj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6734a98668a9279c165a63"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6734a98668a9279c165a65"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163531"
+      }
+    },
+    {
+      "sectionName": "App Promotio Campaign",
+      "lectures": [
+        {
+          "lectureName": "Introduction to App Promotion Campaign",
+          "lectureLength": 702,
+          "tpStreamId": "3E7abqDBPTf",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16353a"
+          }
+        },
+        {
+          "lectureName": "How to Setup App Promotion Campaign",
+          "lectureLength": 1916,
+          "tpStreamId": "8qPyu57MkTh",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16353b"
+          }
+        },
+        {
+          "lectureName": "App Store Optimization [ASO]",
+          "lectureLength": 905,
+          "tpStreamId": "BPurXfJJxaX",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16353c"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "App Promotion Shopping Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:06:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/168WhJcMa_Yo3pp1FgwfSJS3YMo5Xvy3o/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6734d58668a9279c165a68"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6734d58668a9279c165a6a"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163539"
+      }
+    },
+    {
+      "sectionName": "Shopping Campaign",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Shopping Campaign",
+          "lectureLength": 852,
+          "tpStreamId": "876xt4XY6ft",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16353e"
+          }
+        },
+        {
+          "lectureName": "Google Merchant Center - How to upload the Product",
+          "lectureLength": 1752,
+          "tpStreamId": "By7NjUzrsxt",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c16353f"
+          }
+        },
+        {
+          "lectureName": "How to Setup Shopping Campaign",
+          "lectureLength": 889,
+          "tpStreamId": "emU43bruDe2",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163540"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c16353d"
+      }
+    },
+    {
+      "sectionName": "Performance Max Campaign",
+      "lectures": [
+        {
+          "lectureName": "Introduction to Pmax Campaign",
+          "lectureLength": 1179,
+          "tpStreamId": "5FA5zHPABqr",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163544"
+          }
+        },
+        {
+          "lectureName": "How to Setup Pmax Campaign",
+          "lectureLength": 1133,
+          "tpStreamId": "7A7tmfeqczu",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163545"
+          }
+        },
+        {
+          "lectureName": "Introduction to Pmax Campaign",
+          "lectureLength": 1179,
+          "tpStreamId": "3f3BC9DM7HS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163787"
+          }
+        },
+        {
+          "lectureName": "How to Setup Pmax Campaign",
+          "lectureLength": 1133,
+          "tpStreamId": "B3SFxNEZ2Tq",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16378a"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Performance Max Demand Gen Campaign",
+          "dueDate": {
+            "$date": "2026-07-27T05:07:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1hkFvDJj8LImdIZbaVYGRbabLPBsAiFf0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6734f78668a9279c165a6d"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6734f78668a9279c165a6f"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163543"
+      }
+    },
+    {
+      "sectionName": "Demand Gen Campaign",
+      "lectures": [
+        {
+          "lectureName": "Demand Gen Campaign",
+          "lectureLength": 1418,
+          "tpStreamId": "AzfxAqSTKhs",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163542"
+          }
+        },
+        {
+          "lectureName": "Demand Gen Campaign",
+          "lectureLength": 1418,
+          "tpStreamId": "C49aUtX6bCB",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c16378d"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163541"
+      }
+    },
+    {
+      "sectionName": "Strategy of Google ADS",
+      "lectures": [
+        {
+          "lectureName": "Strategy of Google Ads",
+          "lectureLength": 797,
+          "tpStreamId": "qKqhMCRnhQf",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6305528668a9279c163547"
+          }
+        },
+        {
+          "lectureName": "Strategy of Google Ads",
+          "lectureLength": 797,
+          "tpStreamId": "845rytEcaES",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0b8668a9279c163790"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google Ads Strategy Media Planning",
+          "dueDate": {
+            "$date": "2026-07-27T05:07:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1aZ-28PJiNlP8FfSgaSn87wgDjzCPDIe4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735668668a9279c165a72"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735668668a9279c165a74"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c163546"
+      }
+    },
+    {
+      "sectionName": "Google Tag Manager",
+      "lectures": [
+        {
+          "lectureName": "Google Tag Manager",
+          "lectureLength": 621,
+          "tpStreamId": "8aMafydGyPQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c163793"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google Tag Manager Setup",
+          "dueDate": {
+            "$date": "2026-07-27T05:09:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1m_IO3TXPKIQOAUXUd04pd0dg-9g_OkpD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735778668a9279c165a77"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735778668a9279c165a79"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63297b8668a9279c163655"
+      }
+    },
+    {
+      "sectionName": "Google Business Profile",
+      "lectures": [
+        {
+          "lectureName": "Intro to Local SEO",
+          "lectureLength": 551,
+          "tpStreamId": "3q8XDayHPQj",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c1637a0"
+          }
+        },
+        {
+          "lectureName": "What is Local SEO and How to Create GBP Profile",
+          "lectureLength": 1715,
+          "tpStreamId": "7xbGD3N85dQ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c1637a3"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google Business Profile Local SEO",
+          "dueDate": {
+            "$date": "2026-07-27T05:09:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1nHmp2E_ATmaTlYpleZ2oytPX8rx6Gy6F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735928668a9279c165a7c"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735928668a9279c165a7e"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6329998668a9279c163659"
+      }
+    },
+    {
+      "sectionName": "AI Tools for Digital-Marketing",
+      "lectures": [
+        {
+          "lectureName": "Intro to the AI Tools",
+          "lectureLength": 911,
+          "tpStreamId": "4Fb4D3GcMCY",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c163796"
+          }
+        },
+        {
+          "lectureName": "How to create videos and Content Using AI",
+          "lectureLength": 1594,
+          "tpStreamId": "5nsuB7S4BaS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c163799"
+          }
+        },
+        {
+          "lectureName": "AI Reels creation",
+          "lectureLength": 735,
+          "tpStreamId": "4DbGQkzcgtt",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6346cc8668a9279c163acd"
+          }
+        },
+        {
+          "lectureName": "Introducing Hey GEN Ai tool",
+          "lectureLength": 217,
+          "tpStreamId": "zfz2JFafY4N",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c16379d"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "AI Tools for Digital Marketing ",
+          "dueDate": {
+            "$date": "2026-07-27T05:10:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1SEea9qjXZr6VItXYbPdx7KC9JSlIozmJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735a48668a9279c165a81"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735a48668a9279c165a83"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a63298b8668a9279c163657"
+      }
+    },
+    {
+      "sectionName": "Google Analytics",
+      "lectures": [
+        {
+          "lectureName": "Into & History of Google Analytics",
+          "lectureLength": 314,
+          "tpStreamId": "6M26883UkEk",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0c8668a9279c1637a6"
+          }
+        },
+        {
+          "lectureName": "Benefits of using GA-4",
+          "lectureLength": 605,
+          "tpStreamId": "4AmxqZb3djS",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637a9"
+          }
+        },
+        {
+          "lectureName": "How to create Google Analytics Account",
+          "lectureLength": 1325,
+          "tpStreamId": "5FHfmbxZTec",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637ac"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Google Analytics GA4 Setup Reporting",
+          "dueDate": {
+            "$date": "2026-07-27T05:10:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/115V39XHM91N0zytB-QOHYM1ywYX0Xvqw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735ca8668a9279c165b99"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735ca8668a9279c165b9b"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6305528668a9279c16354e"
+      }
+    },
+    {
+      "sectionName": "Freelance & Placement",
+      "lectures": [
+        {
+          "lectureName": "How to create Account on Upwork Profile",
+          "lectureLength": 1670,
+          "tpStreamId": "8MYcMBxXSx5",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637af"
+          }
+        },
+        {
+          "lectureName": "Introduction to the Fiverr Platform",
+          "lectureLength": 1595,
+          "tpStreamId": "6GAXNT7QxjU",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637b2"
+          }
+        }
+      ],
+      "assignments": [],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6329ea8668a9279c163661"
+      }
+    },
+    {
+      "sectionName": "CV and Portfolio using AI",
+      "lectures": [
+        {
+          "lectureName": "How to create the CV",
+          "lectureLength": 1142,
+          "tpStreamId": "APfQPcKzPCJ",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637b8"
+          }
+        },
+        {
+          "lectureName": "How to apply for the Job",
+          "lectureLength": 1875,
+          "tpStreamId": "9k6akKMXmD6",
+          "resource": [],
+          "aws_url": "",
+          "isActive": true,
+          "_id": {
+            "$oid": "6a633d0d8668a9279c1637b5"
+          }
+        }
+      ],
+      "assignments": [
+        {
+          "assignmentName": "Capstone Freelance Profile Resume Building",
+          "dueDate": {
+            "$date": "2026-07-27T05:11:00.000Z"
+          },
+          "assignmentLink": "https://docs.google.com/document/d/1aE6LpeKSi8XqSzyuf1QJqIZWS_8p38bt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true",
+          "assignmentId": {
+            "$oid": "6a6735e38668a9279c165b9e"
+          },
+          "isActive": true,
+          "_id": {
+            "$oid": "6a6735e38668a9279c165ba0"
+          }
+        }
+      ],
+      "isActive": true,
+      "_id": {
+        "$oid": "6a6329f18668a9279c163663"
+      }
+    }
+  ],
+  "resource": [
+    "https://drive.google.com/drive/folders/18GvT8Qzt0VaFSJHpGcn9IwcyHKVUNOCD?usp=drive_link"
+  ],
+  "notes": [],
+  "s3BackupPlay": false,
+  "active": true,
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-07-24T06:25:22.299Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-27T11:12:56.607Z"
+  },
+  "__v": 2,
+  "aiEvaluationEnabled": true,
+  "isAutomated": true
+}
