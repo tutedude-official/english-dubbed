@@ -5,7 +5,7 @@ const { parseVTT, parseTimestamp, buildTimestamp, serializeVTT } = require("./vt
 const { cleanText, maxCharsForDuration, buildMergedCueData } = require("./merge");
 const { phase1_ttsAndRewriteLoop } = require("./phase1");
 const { phase2_combine } = require("./phase2");
-const { getAudioDuration } = require("../services/audio");
+const { getAudioDuration, isSilentAudio } = require("../services/audio");
 const { fmtDuration, fmtTime } = require("../utils/format");
 const L = require("../utils/logger");
 
@@ -75,6 +75,18 @@ async function processPipeline(inputVTT, outputVTT, finalAudio, tmpDir) {
 
   // Phase 2 — combine
   const p2Ms = phase2_combine(results, tmpDir, finalAudio);
+
+  // Silent-output guard — abort if the produced audio is silent so the caller
+  // does not upload a broken file to S3.
+  try {
+    if (isSilentAudio(finalAudio)) {
+      L.error(`Silent audio detected in generated output: ${finalAudio}`);
+      throw new Error(`SILENT_OUTPUT: pipeline produced a silent audio file (${finalAudio}) — aborting before upload`);
+    }
+  } catch (err) {
+    if (err.message && err.message.startsWith("SILENT_OUTPUT:")) throw err;
+    L.warn(`Silence check on final audio failed to run: ${err.message}`);
+  }
 
   // Final report
   const totalPipelineMs = Date.now() - pipelineStart;
