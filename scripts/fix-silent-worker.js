@@ -14,6 +14,7 @@ const { S3Client, GetObjectCommand } = require("@aws-sdk/client-s3");
 
 const { processPipeline } = require("../src/pipeline");
 const { uploadToS3 } = require("../src/services/s3");
+const { notifyLmsDubReady } = require("../src/services/notifyLms");
 const { isSilentAudio } = require("../src/services/audio");
 const {
   S3_BUCKET,
@@ -110,6 +111,10 @@ async function regenerateAndUpload(lecture) {
     L.write(`      → s3://${S3_BUCKET}/${vttKey} [${vttSizeKB} KB] `);
     await uploadToS3(outputVTT, vttKey);
     L.done("uploaded");
+
+    // Notify the LMS backend that this dub is live.
+    const notified = await notifyLmsDubReady({ lectureId, s3Key: audioKey, subtitleS3Key: vttKey });
+    if (notified.ok) L.success("    ✓ Notified LMS backend");
 
     return { status: "success", lectureId, accuracy: pipelineResult.accuracy };
   } catch (err) {

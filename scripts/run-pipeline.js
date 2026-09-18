@@ -9,6 +9,7 @@ const path = require("path");
 const https = require("https");
 const { processPipeline } = require("../src/pipeline");
 const { uploadToS3, existsOnS3 } = require("../src/services/s3");
+const { notifyLmsDubReady } = require("../src/services/notifyLms");
 const { S3_BUCKET, S3_PREFIX } = require("../src/config");
 const { fmtDuration, fmtMs } = require("../src/utils/format");
 const L = require("../src/utils/logger");
@@ -170,6 +171,10 @@ async function processLecture(lecture, index, total) {
   const totalMs  = Date.now() - lectureStart;
 
   L.success(`Upload done in ${fmtDuration(uploadMs)}`);
+
+  // Notify the LMS backend that this dub is live.
+  const notified = await notifyLmsDubReady({ lectureId, s3Key: audioKey, subtitleS3Key: vttKey });
+  if (notified.ok) L.success("Notified LMS backend");
 
   // Cleanup entire lecture output folder after successful upload
   if (fs.existsSync(lectureDir)) {
